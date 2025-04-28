@@ -1,0 +1,1 @@
+# Seizure-Classification-Using-Capsule-Network-and-Bi-LSTM-Hybrid-on-Synthetic-Dataset
